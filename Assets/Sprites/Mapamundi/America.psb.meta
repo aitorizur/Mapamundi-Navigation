@@ -1,0 +1,1082 @@
+fileFormatVersion: 2
+guid: 5658e360b2556dc4d9694ec3a351cf2b
+ScriptedImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 2
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+  script: {fileID: 11500000, guid: b2a9591990af98743ba3ff7cf1000886, type: 3}
+  textureImporterSettings:
+    alphaSource: 1
+    mipMapMode: 0
+    enableMipMap: 1
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+    convertToNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    isReadable: 0
+    streamingMipmaps: 1
+    streamingMipmapsPriority: 0
+    nPOTScale: 1
+    sRGBTexture: 1
+    spriteMode: 2
+    spriteExtrude: 1
+    spriteMeshType: 1
+    alignment: 0
+    spritePivot: {x: 0.5, y: 0.5}
+    spritePixelsToUnits: 100
+    spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+    spriteGenerateFallbackPhysicsShape: 0
+    generateCubemap: 6
+    cubemapConvolution: 0
+    seamlessCubemap: 0
+    alphaIsTransparency: 1
+    spriteTessellationDetail: -1
+    textureType: 8
+    textureShape: 1
+    singleChannelComponent: 0
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 0
+    wrapV: 0
+    wrapW: 0
+    normalMap: 0
+    textureFormat: 0
+    maxTextureSize: 0
+    lightmap: 0
+    compressionQuality: 0
+    linearTexture: 0
+    grayScaleToAlpha: 0
+    rGBM: 0
+    cubemapConvolutionSteps: 0
+    cubemapConvolutionExponent: 0
+    maxTextureSizeSet: 0
+    compressionQualitySet: 0
+    textureFormatSet: 0
+    applyGammaDecoding: 0
+  spriteImportData:
+  - name: 
+    originalName: 
+    pivot: {x: 0, y: 0}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 0
+      height: 0
+    spriteID: 
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 0, y: 0}
+  mosaicSpriteImportData: []
+  rigSpriteImportData:
+  - name: Uruguay
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 438
+      y: 3910
+      width: 122
+      height: 126
+    spriteID: 4c8061f584775d74fbe470cccd0461f0
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: -1801, y: 3294}
+  - name: Argentina
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1678
+      y: 1199
+      width: 357
+      height: 804
+    spriteID: a7002a876ed23c84ebf833d826dd92b8
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: -298, y: 1063}
+  - name: Islas Malvinas
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1966
+      y: 2011
+      width: 68
+      height: 34
+    spriteID: 70a385899e33fb6458ac8750dcf82024
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: -354, y: 1810}
+  - name: Chile
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 884
+      y: 2071
+      width: 315
+      height: 908
+    spriteID: 8eb5799354a6bdb44a215bed17d04a14
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: -1043, y: 1939}
+  - name: Paraguay
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 585
+      y: 3880
+      width: 207
+      height: 210
+    spriteID: 0b09d3b876110bd4c86501f7f8c2c06b
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: -1521, y: 3086}
+  - name: Bolivia
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 884
+      y: 3445
+      width: 283
+      height: 320
+    spriteID: 9402741db27fe1943b70cde86ead9405
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: -1050, y: 2539}
+  - name: Peru
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 884
+      y: 2987
+      width: 299
+      height: 450
+    spriteID: 04ea7c2b672344a41848c9386fcc0575
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: -779, y: 1975}
+  - name: Galapagos
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1207
+      y: 2643
+      width: 87
+      height: 74
+    spriteID: ef32de981daf5444f8d344fccf0f1bf4
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: -323, y: 1274}
+  - name: Ecuador
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 184
+      y: 3910
+      width: 133
+      height: 154
+    spriteID: b76d8168a96f16a4aaec4d2f8e25e437
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: -1483, y: 2567}
+  - name: Brasil
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 2071
+      width: 872
+      height: 928
+    spriteID: d4cddd82c3dfc884dbcee3eaa0a37b52
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: -1827, y: 1410}
+  - name: Guayana francesa
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 800
+      y: 3880
+      width: 74
+      height: 83
+    spriteID: 25473e89cb6c1f54aa2792143bb82465
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: -1451, y: 2365}
+  - name: Guayana holandesa / luego Surinam
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1309
+      y: 2332
+      width: 94
+      height: 97
+    spriteID: 907519cfef3d9db418e03acd66c5e3c4
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: -867, y: 825}
+  - name: Guyana
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 325
+      y: 3910
+      width: 105
+      height: 178
+    spriteID: 4eceb3d1fd2903e43989c1bc08b0f772
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: -1781, y: 2422}
+  - name: Venezuela
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 884
+      y: 3773
+      width: 297
+      height: 275
+    spriteID: 0868d841264edb041ba68f267f7eb1b3
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: -962, y: 2300}
+  - name: Colombia
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 585
+      y: 3464
+      width: 265
+      height: 408
+    spriteID: 5d3b186f3fbb7274ba516fd88a9de260
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: -1128, y: 2112}
+  - name: Bahamas
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 3910
+      width: 172
+      height: 165
+    spriteID: 0ee98297a772b96478ff46251c89db49
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: -1751, y: 1944}
+  - name: Aruba-Curazao
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 528
+      y: 4044
+      width: 42
+      height: 29
+    spriteID: 79bd4f1c538745347b5863e93798c9b2
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: -1388, y: 2293}
+  - name: Islas caribe
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1207
+      y: 2071
+      width: 220
+      height: 253
+    spriteID: f0b810223d4a40c4eb8f840327fc1379
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: -772, y: 382}
+  - name: Republica dominicana
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1819
+      y: 2011
+      width: 69
+      height: 45
+    spriteID: b0719d01572c07049a1b6efad79f0aa4
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: -85, y: 115}
+  - name: Haiti
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 438
+      y: 4044
+      width: 82
+      height: 48
+    spriteID: d15617623411ad14282a21dbf18757ea
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: -1390, y: 2150}
+  - name: Jamaica
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 800
+      y: 4065
+      width: 52
+      height: 20
+    spriteID: 4c5b207b03d44614ab8569b43d008741
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: -948, y: 2173}
+  - name: Cuba
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1435
+      y: 2071
+      width: 227
+      height: 81
+    spriteID: d774a8320aa36dd4899b34814cda34a0
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: -195, y: 133}
+  - name: "Panam\xE1"
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1678
+      y: 2011
+      width: 133
+      height: 51
+    spriteID: 60b9d6b3117101a47add172f879806cb
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 48, y: 371}
+  - name: Costa Rica
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1345
+      y: 2451
+      width: 69
+      height: 68
+    spriteID: 4a6c6f273776e904fb1cc8ea937856cb
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: -226, y: 788}
+  - name: Nicaragua
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1207
+      y: 2534
+      width: 90
+      height: 101
+    spriteID: 2792e9f8770bd3d459f4e7a7d111a63b
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: -335, y: 813}
+  - name: Honduras
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1207
+      y: 2451
+      width: 130
+      height: 75
+    spriteID: aa8a372582a257148a7bdf0b9620361d
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: -299, y: 677}
+  - name: El Salvador
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1896
+      y: 2011
+      width: 62
+      height: 44
+    spriteID: 27180fa7705a5ac44a47f6c9b53545c9
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 419, y: 232}
+  - name: "Honduras brit\xE1nica / luego belice"
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 800
+      y: 3971
+      width: 52
+      height: 86
+    spriteID: 187640cd263431b42bb277f5b6f2f79c
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: -705, y: 2130}
+  - name: Guatemala
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1207
+      y: 2332
+      width: 94
+      height: 111
+    spriteID: 67a0fb7359d0d4d42ad1f5127ef69226
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: -229, y: 543}
+  - name: Mexico
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 3464
+      width: 573
+      height: 438
+    spriteID: 03acaa50f00191447919b921dbc9dcfa
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: -999, y: 1643}
+  - name: Groenlandia
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 3007
+      width: 846
+      height: 449
+    spriteID: a03ec71408c6aa64f9b7d40ece7b29de
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: -2518, y: 112}
+  - name: Canada
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 1199
+      width: 1666
+      height: 864
+    spriteID: 99d5b9690d0b7f74b98934d41d1232fe
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: -1023, y: -1280}
+  - name: Estados Unidos
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 4
+      width: 2063
+      height: 1187
+    spriteID: 53f9708e19e462644afbfa3267e578f4
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: -92, y: -1932}
+  platformSettings: []
+  mosaicLayers: 1
+  documentPivot: {x: 0, y: 0}
+  documentAlignment: 7
+  importHiddenLayers: 0
+  importedTextureWidth: 2048
+  importedTextureHeight: 2048
+  documentSize: {x: 8606, y: 3404}
+  paperDollMode: 0
+  keepDupilcateSpriteName: 0
+  spriteCategoryList:
+    categories: []
+  textureActualWidth: 4096
+  textureActualHeight: 4096
+  spritePackingTag: 
+  resliceFromLayer: 0
+  characterMode: 1
+  mosaicPSDLayers: []
+  rigPSDLayers:
+  - name: "Am\xE9rica"
+    spriteName: 
+    isGroup: 1
+    parentIndex: -1
+    spriteID: 00000000000000000000000000000000
+    layerID: 673
+    mosaicPosition: {x: 0, y: 0}
+  - name: Uruguay
+    spriteName: Uruguay
+    isGroup: 0
+    parentIndex: 0
+    spriteID: 4c8061f584775d74fbe470cccd0461f0
+    layerID: 757
+    mosaicPosition: {x: 438, y: 3910}
+  - name: Argentina
+    spriteName: Argentina
+    isGroup: 0
+    parentIndex: 0
+    spriteID: a7002a876ed23c84ebf833d826dd92b8
+    layerID: 755
+    mosaicPosition: {x: 1678, y: 1199}
+  - name: Islas Malvinas
+    spriteName: Islas Malvinas
+    isGroup: 0
+    parentIndex: 0
+    spriteID: 70a385899e33fb6458ac8750dcf82024
+    layerID: 760
+    mosaicPosition: {x: 1966, y: 2011}
+  - name: Chile
+    spriteName: Chile
+    isGroup: 0
+    parentIndex: 0
+    spriteID: 8eb5799354a6bdb44a215bed17d04a14
+    layerID: 751
+    mosaicPosition: {x: 884, y: 2071}
+  - name: Paraguay
+    spriteName: Paraguay
+    isGroup: 0
+    parentIndex: 0
+    spriteID: 0b09d3b876110bd4c86501f7f8c2c06b
+    layerID: 748
+    mosaicPosition: {x: 585, y: 3880}
+  - name: Bolivia
+    spriteName: Bolivia
+    isGroup: 0
+    parentIndex: 0
+    spriteID: 9402741db27fe1943b70cde86ead9405
+    layerID: 745
+    mosaicPosition: {x: 884, y: 3445}
+  - name: Peru
+    spriteName: Peru
+    isGroup: 0
+    parentIndex: 0
+    spriteID: 04ea7c2b672344a41848c9386fcc0575
+    layerID: 742
+    mosaicPosition: {x: 884, y: 2987}
+  - name: Galapagos
+    spriteName: Galapagos
+    isGroup: 0
+    parentIndex: 0
+    spriteID: ef32de981daf5444f8d344fccf0f1bf4
+    layerID: 1342
+    mosaicPosition: {x: 1207, y: 2643}
+  - name: Ecuador
+    spriteName: Ecuador
+    isGroup: 0
+    parentIndex: 0
+    spriteID: b76d8168a96f16a4aaec4d2f8e25e437
+    layerID: 739
+    mosaicPosition: {x: 184, y: 3910}
+  - name: Brasil
+    spriteName: Brasil
+    isGroup: 0
+    parentIndex: 0
+    spriteID: d4cddd82c3dfc884dbcee3eaa0a37b52
+    layerID: 736
+    mosaicPosition: {x: 4, y: 2071}
+  - name: Guayana francesa
+    spriteName: Guayana francesa
+    isGroup: 0
+    parentIndex: 0
+    spriteID: 25473e89cb6c1f54aa2792143bb82465
+    layerID: 730
+    mosaicPosition: {x: 800, y: 3880}
+  - name: Guayana holandesa / luego Surinam
+    spriteName: Guayana holandesa / luego Surinam
+    isGroup: 0
+    parentIndex: 0
+    spriteID: 907519cfef3d9db418e03acd66c5e3c4
+    layerID: 728
+    mosaicPosition: {x: 1309, y: 2332}
+  - name: Guyana
+    spriteName: Guyana
+    isGroup: 0
+    parentIndex: 0
+    spriteID: 4eceb3d1fd2903e43989c1bc08b0f772
+    layerID: 725
+    mosaicPosition: {x: 325, y: 3910}
+  - name: Venezuela
+    spriteName: Venezuela
+    isGroup: 0
+    parentIndex: 0
+    spriteID: 0868d841264edb041ba68f267f7eb1b3
+    layerID: 722
+    mosaicPosition: {x: 884, y: 3773}
+  - name: Colombia
+    spriteName: Colombia
+    isGroup: 0
+    parentIndex: 0
+    spriteID: 5d3b186f3fbb7274ba516fd88a9de260
+    layerID: 719
+    mosaicPosition: {x: 585, y: 3464}
+  - name: Bahamas
+    spriteName: Bahamas
+    isGroup: 0
+    parentIndex: 0
+    spriteID: 0ee98297a772b96478ff46251c89db49
+    layerID: 692
+    mosaicPosition: {x: 4, y: 3910}
+  - name: Aruba-Curazao
+    spriteName: Aruba-Curazao
+    isGroup: 0
+    parentIndex: 0
+    spriteID: 79bd4f1c538745347b5863e93798c9b2
+    layerID: 957
+    mosaicPosition: {x: 528, y: 4044}
+  - name: Islas caribe
+    spriteName: Islas caribe
+    isGroup: 0
+    parentIndex: 0
+    spriteID: f0b810223d4a40c4eb8f840327fc1379
+    layerID: 1380
+    mosaicPosition: {x: 1207, y: 2071}
+  - name: Republica dominicana
+    spriteName: Republica dominicana
+    isGroup: 0
+    parentIndex: 0
+    spriteID: b0719d01572c07049a1b6efad79f0aa4
+    layerID: 769
+    mosaicPosition: {x: 1819, y: 2011}
+  - name: Haiti
+    spriteName: Haiti
+    isGroup: 0
+    parentIndex: 0
+    spriteID: d15617623411ad14282a21dbf18757ea
+    layerID: 766
+    mosaicPosition: {x: 438, y: 4044}
+  - name: Jamaica
+    spriteName: Jamaica
+    isGroup: 0
+    parentIndex: 0
+    spriteID: 4c5b207b03d44614ab8569b43d008741
+    layerID: 763
+    mosaicPosition: {x: 800, y: 4065}
+  - name: Cuba
+    spriteName: Cuba
+    isGroup: 0
+    parentIndex: 0
+    spriteID: d774a8320aa36dd4899b34814cda34a0
+    layerID: 690
+    mosaicPosition: {x: 1435, y: 2071}
+  - name: "Panam\xE1"
+    spriteName: "Panam\xE1"
+    isGroup: 0
+    parentIndex: 0
+    spriteID: 60b9d6b3117101a47add172f879806cb
+    layerID: 714
+    mosaicPosition: {x: 1678, y: 2011}
+  - name: Costa Rica
+    spriteName: Costa Rica
+    isGroup: 0
+    parentIndex: 0
+    spriteID: 4a6c6f273776e904fb1cc8ea937856cb
+    layerID: 711
+    mosaicPosition: {x: 1345, y: 2451}
+  - name: Nicaragua
+    spriteName: Nicaragua
+    isGroup: 0
+    parentIndex: 0
+    spriteID: 2792e9f8770bd3d459f4e7a7d111a63b
+    layerID: 707
+    mosaicPosition: {x: 1207, y: 2534}
+  - name: Honduras
+    spriteName: Honduras
+    isGroup: 0
+    parentIndex: 0
+    spriteID: aa8a372582a257148a7bdf0b9620361d
+    layerID: 704
+    mosaicPosition: {x: 1207, y: 2451}
+  - name: El Salvador
+    spriteName: El Salvador
+    isGroup: 0
+    parentIndex: 0
+    spriteID: 27180fa7705a5ac44a47f6c9b53545c9
+    layerID: 701
+    mosaicPosition: {x: 1896, y: 2011}
+  - name: "Honduras brit\xE1nica / luego belice"
+    spriteName: "Honduras brit\xE1nica / luego belice"
+    isGroup: 0
+    parentIndex: 0
+    spriteID: 187640cd263431b42bb277f5b6f2f79c
+    layerID: 698
+    mosaicPosition: {x: 800, y: 3971}
+  - name: Guatemala
+    spriteName: Guatemala
+    isGroup: 0
+    parentIndex: 0
+    spriteID: 67a0fb7359d0d4d42ad1f5127ef69226
+    layerID: 695
+    mosaicPosition: {x: 1207, y: 2332}
+  - name: Mexico
+    spriteName: Mexico
+    isGroup: 0
+    parentIndex: 0
+    spriteID: 03acaa50f00191447919b921dbc9dcfa
+    layerID: 686
+    mosaicPosition: {x: 4, y: 3464}
+  - name: Groenlandia
+    spriteName: Groenlandia
+    isGroup: 0
+    parentIndex: 0
+    spriteID: a03ec71408c6aa64f9b7d40ece7b29de
+    layerID: 683
+    mosaicPosition: {x: 4, y: 3007}
+  - name: Canada
+    spriteName: Canada
+    isGroup: 0
+    parentIndex: 0
+    spriteID: 99d5b9690d0b7f74b98934d41d1232fe
+    layerID: 678
+    mosaicPosition: {x: 4, y: 1199}
+  - name: Estados Unidos
+    spriteName: Estados Unidos
+    isGroup: 0
+    parentIndex: 0
+    spriteID: 53f9708e19e462644afbfa3267e578f4
+    layerID: 675
+    mosaicPosition: {x: 4, y: 4}
+  characterData:
+    bones: []
+    parts: []
+    dimension: {x: 0, y: 0}
+    characterGroups: []
+  generateGOHierarchy: 0
+  textureAssetName: America Texture
+  prefabAssetName: America Prefab
+  spriteLibAssetName: America Sprite Lib
+  secondarySpriteTextures: []

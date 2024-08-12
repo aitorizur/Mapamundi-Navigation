@@ -1,0 +1,1412 @@
+fileFormatVersion: 2
+guid: 20207e4090967984881fd01369bf231b
+ScriptedImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 2
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+  script: {fileID: 11500000, guid: b2a9591990af98743ba3ff7cf1000886, type: 3}
+  textureImporterSettings:
+    alphaSource: 1
+    mipMapMode: 0
+    enableMipMap: 1
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+    convertToNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    isReadable: 0
+    streamingMipmaps: 1
+    streamingMipmapsPriority: 0
+    nPOTScale: 1
+    sRGBTexture: 1
+    spriteMode: 2
+    spriteExtrude: 1
+    spriteMeshType: 1
+    alignment: 0
+    spritePivot: {x: 0.5, y: 0.5}
+    spritePixelsToUnits: 100
+    spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+    spriteGenerateFallbackPhysicsShape: 0
+    generateCubemap: 6
+    cubemapConvolution: 0
+    seamlessCubemap: 0
+    alphaIsTransparency: 1
+    spriteTessellationDetail: -1
+    textureType: 8
+    textureShape: 1
+    singleChannelComponent: 0
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 0
+    wrapV: 0
+    wrapW: 0
+    normalMap: 0
+    textureFormat: 0
+    maxTextureSize: 0
+    lightmap: 0
+    compressionQuality: 0
+    linearTexture: 0
+    grayScaleToAlpha: 0
+    rGBM: 0
+    cubemapConvolutionSteps: 0
+    cubemapConvolutionExponent: 0
+    maxTextureSizeSet: 0
+    compressionQualitySet: 0
+    textureFormatSet: 0
+    applyGammaDecoding: 0
+  spriteImportData:
+  - name: 
+    originalName: 
+    pivot: {x: 0, y: 0}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 0
+      height: 0
+    spriteID: 
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 0, y: 0}
+  mosaicSpriteImportData: []
+  rigSpriteImportData:
+  - name: Rusia
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 4
+      width: 2828
+      height: 884
+    spriteID: e54c7fb74ea770a4694bb7455ef741f6
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: -3867, y: -2359}
+  - name: Georgia
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 2861
+      y: 1371
+      width: 96
+      height: 75
+    spriteID: 1201486d0b9945740bac86fa90a10a96
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: -1469, y: -1054}
+  - name: "Azebaiy\xE1n"
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 2861
+      y: 1280
+      width: 99
+      height: 83
+    spriteID: 885e24e4b24585a45b6820099aba16e1
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: -1541, y: -1113}
+  - name: Armenia
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 3276
+      y: 1543
+      width: 41
+      height: 43
+    spriteID: a0075f8072ad8b845a62b2714004da3b
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: -1112, y: -852}
+  - name: "Uzbekist\xE1n"
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 2514
+      y: 1280
+      width: 339
+      height: 207
+    spriteID: 18805f08a9ca5ed4e948936841a6e884
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: -2102, y: -1076}
+  - name: "Kirguist\xE1n"
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1189
+      y: 1451
+      width: 208
+      height: 117
+    spriteID: 2c46975038b9e3347ac076895e580656
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: -3720, y: -953}
+  - name: "Tayikist\xE1n"
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1609
+      y: 1451
+      width: 172
+      height: 108
+    spriteID: bbf2acca8c72be24bb17f11a696cd327
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: -3243, y: -897}
+  - name: "Turkmenist\xE1n"
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 1771
+      width: 292
+      height: 194
+    spriteID: 1e8c1e0896d6a3543ba335372b26a68b
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: -4561, y: -545}
+  - name: "Kazajist\xE1n"
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1814
+      y: 896
+      width: 692
+      height: 337
+    spriteID: 4fd3a593561d05546970c89c14e57dce
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: -2687, y: -1558}
+  - name: Maldivas
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 1614
+      width: 3540
+      height: 149
+    spriteID: 2d312dd4ead59a64c847bf9f677ca7e5
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: -1542, y: 230}
+  - name: Timor Oriental
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 2861
+      y: 1454
+      width: 60
+      height: 25
+    spriteID: 3ab9f548166562143ab35cefcecba64e
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: -3370, y: 223}
+  - name: Indonesia
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 792
+      y: 896
+      width: 1014
+      height: 387
+    spriteID: bc30407a7cb1833468a97bcdd6308927
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: -4798, y: -313}
+  - name: Brunei
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 2929
+      y: 1454
+      width: 36
+      height: 31
+    spriteID: bb914b9015a092e4986852bc70013563
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: -3076, y: -100}
+  - name: Filipinas
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 3871
+      y: 896
+      width: 211
+      height: 316
+    spriteID: 5580fc4709811d04280ac25152ed4a6b
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: -2200, y: -697}
+  - name: Singapour
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4060
+      y: 1726
+      width: 24
+      height: 19
+    spriteID: dabd5fe74046b184aa3907b15a95003d
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: -1703, y: 234}
+  - name: "Borneo brit\xE1nico"
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4020
+      y: 1726
+      width: 32
+      height: 24
+    spriteID: 44885c927eb0fb54c8e094269775237a
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: -2030, y: 130}
+  - name: "Federaci\xF3n Malaya / luego Malasia"
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 3552
+      y: 1614
+      width: 417
+      height: 148
+    spriteID: e6b6cfeb0c0bd4547b66ab6e2bfd08e8
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: -2142, y: 140}
+  - name: "Jap\xF3n"
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 3631
+      y: 1259
+      width: 201
+      height: 343
+    spriteID: ead5fd4cbeccabe44acf07c74444e42c
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: -2590, y: -953}
+  - name: Corea del Norte
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 3276
+      y: 1400
+      width: 120
+      height: 135
+    spriteID: 346dc19fcac78a547b5a91e34766fb27
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: -2753, y: -969}
+  - name: Corea del Sur
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 3977
+      y: 1614
+      width: 95
+      height: 104
+    spriteID: 5cf38163aea2a4a429b9e7d5fefda148
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: -2126, y: -673}
+  - name: Mongolia
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1814
+      y: 1241
+      width: 656
+      height: 256
+    spriteID: 9172fa2a904d0e64abf8c0674f6333ef
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: -3385, y: -1217}
+  - name: China
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 2840
+      y: 4
+      width: 1150
+      height: 850
+    spriteID: 7ad647dcc7cdc00438e38d48000105e4
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: -2157, y: -1893}
+  - name: Indochina Francesa
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 3631
+      y: 896
+      width: 232
+      height: 355
+    spriteID: f64cc9d74973a424d98363484922c06b
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: -2027, y: -771}
+  - name: Tailandia
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 3871
+      y: 1220
+      width: 184
+      height: 362
+    spriteID: c5d1c1886611f2d479459c2d104fb9fe
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: -1741, y: -376}
+  - name: Sikkim
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 3977
+      y: 1726
+      width: 35
+      height: 31
+    spriteID: 5a5af5a47841e104e992b3095b619c9e
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: -1388, y: -382}
+  - name: "But\xE1n"
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 792
+      y: 1291
+      width: 1006
+      height: 152
+    spriteID: 868f8261bb9a27047a8d9c714f7a287d
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: -4603, y: -805}
+  - name: Birmania Myanmar
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 3433
+      y: 896
+      width: 190
+      height: 435
+    spriteID: 4cf469152b0dcf84aa1280ed596b299a
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: -2046, y: -809}
+  - name: Nepal
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1405
+      y: 1451
+      width: 196
+      height: 105
+    spriteID: c56bf817a4551cf438330e6e88eceb30
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: -3783, y: -638}
+  - name: "Ceil\xE1n / luego Sri Lanka"
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 2514
+      y: 1495
+      width: 44
+      height: 85
+    spriteID: 3032998dbc07fcd47bf9f15d96c44824
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: -2730, y: -111}
+  - name: "Raj brit\xE1nico / luego India"
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 896
+      width: 780
+      height: 710
+    spriteID: d5023d58bdfaba54098b7d8857f4603a
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: -4783, y: -759}
+  - name: Afganistan
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 2984
+      y: 1261
+      width: 284
+      height: 236
+    spriteID: 52273e6009ad5ac47b7c0523402e5d81
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: -1767, y: -901}
+  - name: Iran
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 2984
+      y: 896
+      width: 441
+      height: 357
+    spriteID: 8a718221e186df140b09619140786e0c
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: -1410, y: -1166}
+  - name: Irak
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 1973
+      width: 221
+      height: 220
+    spriteID: 4016b9552fef68b48a00834e5386e0b4
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: -4293, y: -175}
+  - name: "Bar\xE9in"
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 3367
+      y: 1543
+      width: 35
+      height: 43
+    spriteID: a810a7a935835c448b0a78422b5690f4
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: -1185, y: -527}
+  - name: Qatar
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 3404
+      y: 1400
+      width: 19
+      height: 40
+    spriteID: ba3a041148d99084f9171258b8fa7db3
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: -1176, y: -642}
+  - name: Estados de la tregua / luego Emiratos Arabes Unidos
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 2984
+      y: 1505
+      width: 118
+      height: 90
+    spriteID: ccde2e549edc7a04a88568ddee4b78e8
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: -1601, y: -496}
+  - name: "Om\xE1n"
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 3433
+      y: 1339
+      width: 161
+      height: 189
+    spriteID: b7c9a91ae1aa53a4ba2d806db87dfafc
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: -1183, y: -524}
+  - name: Hadramaut / luego Yemen
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 304
+      y: 1771
+      width: 232
+      height: 161
+    spriteID: 1d55c574d5262db4c972f1b55da54406
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: -4106, y: 8}
+  - name: Arabia saudita
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 2514
+      y: 896
+      width: 462
+      height: 376
+    spriteID: bd53fc9a2e16fd549adbb153537c85b8
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: -1716, y: -970}
+  - name: Jordania
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 3110
+      y: 1505
+      width: 89
+      height: 101
+    spriteID: 9115d8d08d8b0dd408d327034abb63ea
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: -1119, y: -658}
+  - name: "Palestina brit\xE1nica / luego  Israel"
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 3207
+      y: 1505
+      width: 40
+      height: 99
+    spriteID: b049f4d3ea055974b9027373b7fcc2be
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: -998, y: -660}
+  - name: Libano
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 3325
+      y: 1543
+      width: 34
+      height: 47
+    spriteID: 96d7b05a542cfa64798bfa235d581dde
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: -900, y: -712}
+  - name: Siria
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 3276
+      y: 1261
+      width: 135
+      height: 131
+    spriteID: bd24f32ec67c59c449251273a8e3993e
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: -955, y: -973}
+  - name: Turquia
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 792
+      y: 1451
+      width: 389
+      height: 149
+    spriteID: 1789125e4df651f45b66e61383b1b8fc
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: -3228, y: -874}
+  platformSettings:
+  - name: Default
+    overridden: 1
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    androidETC2FallbackOverride: 0
+  mosaicLayers: 1
+  documentPivot: {x: 0, y: 0}
+  documentAlignment: 7
+  importHiddenLayers: 0
+  importedTextureWidth: 2048
+  importedTextureHeight: 2048
+  documentSize: {x: 8606, y: 3404}
+  paperDollMode: 0
+  keepDupilcateSpriteName: 0
+  spriteCategoryList:
+    categories: []
+  textureActualWidth: 4096
+  textureActualHeight: 4096
+  spritePackingTag: 
+  resliceFromLayer: 0
+  characterMode: 1
+  mosaicPSDLayers: []
+  rigPSDLayers:
+  - name: Asia
+    spriteName: 
+    isGroup: 1
+    parentIndex: -1
+    spriteID: 00000000000000000000000000000000
+    layerID: 394
+    mosaicPosition: {x: 0, y: 0}
+  - name: Rusia
+    spriteName: Rusia
+    isGroup: 0
+    parentIndex: 0
+    spriteID: e54c7fb74ea770a4694bb7455ef741f6
+    layerID: 1193
+    mosaicPosition: {x: 4, y: 4}
+  - name: Georgia
+    spriteName: Georgia
+    isGroup: 0
+    parentIndex: 0
+    spriteID: 1201486d0b9945740bac86fa90a10a96
+    layerID: 1322
+    mosaicPosition: {x: 2861, y: 1371}
+  - name: "Azebaiy\xE1n"
+    spriteName: "Azebaiy\xE1n"
+    isGroup: 0
+    parentIndex: 0
+    spriteID: 885e24e4b24585a45b6820099aba16e1
+    layerID: 1319
+    mosaicPosition: {x: 2861, y: 1280}
+  - name: Armenia
+    spriteName: Armenia
+    isGroup: 0
+    parentIndex: 0
+    spriteID: a0075f8072ad8b845a62b2714004da3b
+    layerID: 1311
+    mosaicPosition: {x: 3276, y: 1543}
+  - name: "Uzbekist\xE1n"
+    spriteName: "Uzbekist\xE1n"
+    isGroup: 0
+    parentIndex: 0
+    spriteID: 18805f08a9ca5ed4e948936841a6e884
+    layerID: 1306
+    mosaicPosition: {x: 2514, y: 1280}
+  - name: "Kirguist\xE1n"
+    spriteName: "Kirguist\xE1n"
+    isGroup: 0
+    parentIndex: 0
+    spriteID: 2c46975038b9e3347ac076895e580656
+    layerID: 1301
+    mosaicPosition: {x: 1189, y: 1451}
+  - name: "Tayikist\xE1n"
+    spriteName: "Tayikist\xE1n"
+    isGroup: 0
+    parentIndex: 0
+    spriteID: bbf2acca8c72be24bb17f11a696cd327
+    layerID: 1295
+    mosaicPosition: {x: 1609, y: 1451}
+  - name: "Turkmenist\xE1n"
+    spriteName: "Turkmenist\xE1n"
+    isGroup: 0
+    parentIndex: 0
+    spriteID: 1e8c1e0896d6a3543ba335372b26a68b
+    layerID: 1290
+    mosaicPosition: {x: 4, y: 1771}
+  - name: "Kazajist\xE1n"
+    spriteName: "Kazajist\xE1n"
+    isGroup: 0
+    parentIndex: 0
+    spriteID: 4fd3a593561d05546970c89c14e57dce
+    layerID: 1287
+    mosaicPosition: {x: 1814, y: 896}
+  - name: Maldivas
+    spriteName: Maldivas
+    isGroup: 0
+    parentIndex: 0
+    spriteID: 2d312dd4ead59a64c847bf9f677ca7e5
+    layerID: 1458
+    mosaicPosition: {x: 4, y: 1614}
+  - name: Timor Oriental
+    spriteName: Timor Oriental
+    isGroup: 0
+    parentIndex: 0
+    spriteID: 3ab9f548166562143ab35cefcecba64e
+    layerID: 572
+    mosaicPosition: {x: 2861, y: 1454}
+  - name: Indonesia
+    spriteName: Indonesia
+    isGroup: 0
+    parentIndex: 0
+    spriteID: bc30407a7cb1833468a97bcdd6308927
+    layerID: 567
+    mosaicPosition: {x: 792, y: 896}
+  - name: Brunei
+    spriteName: Brunei
+    isGroup: 0
+    parentIndex: 0
+    spriteID: bb914b9015a092e4986852bc70013563
+    layerID: 560
+    mosaicPosition: {x: 2929, y: 1454}
+  - name: Filipinas
+    spriteName: Filipinas
+    isGroup: 0
+    parentIndex: 0
+    spriteID: 5580fc4709811d04280ac25152ed4a6b
+    layerID: 555
+    mosaicPosition: {x: 3871, y: 896}
+  - name: Singapour
+    spriteName: Singapour
+    isGroup: 0
+    parentIndex: 0
+    spriteID: dabd5fe74046b184aa3907b15a95003d
+    layerID: 951
+    mosaicPosition: {x: 4060, y: 1726}
+  - name: "Borneo brit\xE1nico"
+    spriteName: "Borneo brit\xE1nico"
+    isGroup: 0
+    parentIndex: 0
+    spriteID: 44885c927eb0fb54c8e094269775237a
+    layerID: 1332
+    mosaicPosition: {x: 4020, y: 1726}
+  - name: "Federaci\xF3n Malaya / luego Malasia"
+    spriteName: "Federaci\xF3n Malaya / luego Malasia"
+    isGroup: 0
+    parentIndex: 0
+    spriteID: e6b6cfeb0c0bd4547b66ab6e2bfd08e8
+    layerID: 550
+    mosaicPosition: {x: 3552, y: 1614}
+  - name: "Jap\xF3n"
+    spriteName: "Jap\xF3n"
+    isGroup: 0
+    parentIndex: 0
+    spriteID: ead5fd4cbeccabe44acf07c74444e42c
+    layerID: 545
+    mosaicPosition: {x: 3631, y: 1259}
+  - name: Corea del Norte
+    spriteName: Corea del Norte
+    isGroup: 0
+    parentIndex: 0
+    spriteID: 346dc19fcac78a547b5a91e34766fb27
+    layerID: 539
+    mosaicPosition: {x: 3276, y: 1400}
+  - name: Corea del Sur
+    spriteName: Corea del Sur
+    isGroup: 0
+    parentIndex: 0
+    spriteID: 5cf38163aea2a4a429b9e7d5fefda148
+    layerID: 1159
+    mosaicPosition: {x: 3977, y: 1614}
+  - name: Mongolia
+    spriteName: Mongolia
+    isGroup: 0
+    parentIndex: 0
+    spriteID: 9172fa2a904d0e64abf8c0674f6333ef
+    layerID: 533
+    mosaicPosition: {x: 1814, y: 1241}
+  - name: China
+    spriteName: China
+    isGroup: 0
+    parentIndex: 0
+    spriteID: 7ad647dcc7cdc00438e38d48000105e4
+    layerID: 525
+    mosaicPosition: {x: 2840, y: 4}
+  - name: Indochina Francesa
+    spriteName: Indochina Francesa
+    isGroup: 0
+    parentIndex: 0
+    spriteID: f64cc9d74973a424d98363484922c06b
+    layerID: 903
+    mosaicPosition: {x: 3631, y: 896}
+  - name: Tailandia
+    spriteName: Tailandia
+    isGroup: 0
+    parentIndex: 0
+    spriteID: c5d1c1886611f2d479459c2d104fb9fe
+    layerID: 503
+    mosaicPosition: {x: 3871, y: 1220}
+  - name: Sikkim
+    spriteName: Sikkim
+    isGroup: 0
+    parentIndex: 0
+    spriteID: 5a5af5a47841e104e992b3095b619c9e
+    layerID: 898
+    mosaicPosition: {x: 3977, y: 1726}
+  - name: "But\xE1n"
+    spriteName: "But\xE1n"
+    isGroup: 0
+    parentIndex: 0
+    spriteID: 868f8261bb9a27047a8d9c714f7a287d
+    layerID: 498
+    mosaicPosition: {x: 792, y: 1291}
+  - name: Birmania Myanmar
+    spriteName: Birmania Myanmar
+    isGroup: 0
+    parentIndex: 0
+    spriteID: 4cf469152b0dcf84aa1280ed596b299a
+    layerID: 493
+    mosaicPosition: {x: 3433, y: 896}
+  - name: Nepal
+    spriteName: Nepal
+    isGroup: 0
+    parentIndex: 0
+    spriteID: c56bf817a4551cf438330e6e88eceb30
+    layerID: 488
+    mosaicPosition: {x: 1405, y: 1451}
+  - name: "Ceil\xE1n / luego Sri Lanka"
+    spriteName: "Ceil\xE1n / luego Sri Lanka"
+    isGroup: 0
+    parentIndex: 0
+    spriteID: 3032998dbc07fcd47bf9f15d96c44824
+    layerID: 582
+    mosaicPosition: {x: 2514, y: 1495}
+  - name: "Raj brit\xE1nico / luego India"
+    spriteName: "Raj brit\xE1nico / luego India"
+    isGroup: 0
+    parentIndex: 0
+    spriteID: d5023d58bdfaba54098b7d8857f4603a
+    layerID: 477
+    mosaicPosition: {x: 4, y: 896}
+  - name: Afganistan
+    spriteName: Afganistan
+    isGroup: 0
+    parentIndex: 0
+    spriteID: 52273e6009ad5ac47b7c0523402e5d81
+    layerID: 472
+    mosaicPosition: {x: 2984, y: 1261}
+  - name: Iran
+    spriteName: Iran
+    isGroup: 0
+    parentIndex: 0
+    spriteID: 8a718221e186df140b09619140786e0c
+    layerID: 461
+    mosaicPosition: {x: 2984, y: 896}
+  - name: Irak
+    spriteName: Irak
+    isGroup: 0
+    parentIndex: 0
+    spriteID: 4016b9552fef68b48a00834e5386e0b4
+    layerID: 456
+    mosaicPosition: {x: 4, y: 1973}
+  - name: "Bar\xE9in"
+    spriteName: "Bar\xE9in"
+    isGroup: 0
+    parentIndex: 0
+    spriteID: a810a7a935835c448b0a78422b5690f4
+    layerID: 639
+    mosaicPosition: {x: 3367, y: 1543}
+  - name: Qatar
+    spriteName: Qatar
+    isGroup: 0
+    parentIndex: 0
+    spriteID: ba3a041148d99084f9171258b8fa7db3
+    layerID: 447
+    mosaicPosition: {x: 3404, y: 1400}
+  - name: Estados de la tregua / luego Emiratos Arabes Unidos
+    spriteName: Estados de la tregua / luego Emiratos Arabes Unidos
+    isGroup: 0
+    parentIndex: 0
+    spriteID: ccde2e549edc7a04a88568ddee4b78e8
+    layerID: 441
+    mosaicPosition: {x: 2984, y: 1505}
+  - name: "Om\xE1n"
+    spriteName: "Om\xE1n"
+    isGroup: 0
+    parentIndex: 0
+    spriteID: b7c9a91ae1aa53a4ba2d806db87dfafc
+    layerID: 436
+    mosaicPosition: {x: 3433, y: 1339}
+  - name: Hadramaut / luego Yemen
+    spriteName: Hadramaut / luego Yemen
+    isGroup: 0
+    parentIndex: 0
+    spriteID: 1d55c574d5262db4c972f1b55da54406
+    layerID: 431
+    mosaicPosition: {x: 304, y: 1771}
+  - name: Arabia saudita
+    spriteName: Arabia saudita
+    isGroup: 0
+    parentIndex: 0
+    spriteID: bd53fc9a2e16fd549adbb153537c85b8
+    layerID: 426
+    mosaicPosition: {x: 2514, y: 896}
+  - name: Jordania
+    spriteName: Jordania
+    isGroup: 0
+    parentIndex: 0
+    spriteID: 9115d8d08d8b0dd408d327034abb63ea
+    layerID: 420
+    mosaicPosition: {x: 3110, y: 1505}
+  - name: "Palestina brit\xE1nica / luego  Israel"
+    spriteName: "Palestina brit\xE1nica / luego  Israel"
+    isGroup: 0
+    parentIndex: 0
+    spriteID: b049f4d3ea055974b9027373b7fcc2be
+    layerID: 413
+    mosaicPosition: {x: 3207, y: 1505}
+  - name: Libano
+    spriteName: Libano
+    isGroup: 0
+    parentIndex: 0
+    spriteID: 96d7b05a542cfa64798bfa235d581dde
+    layerID: 410
+    mosaicPosition: {x: 3325, y: 1543}
+  - name: Siria
+    spriteName: Siria
+    isGroup: 0
+    parentIndex: 0
+    spriteID: bd24f32ec67c59c449251273a8e3993e
+    layerID: 408
+    mosaicPosition: {x: 3276, y: 1261}
+  - name: Turquia
+    spriteName: Turquia
+    isGroup: 0
+    parentIndex: 0
+    spriteID: 1789125e4df651f45b66e61383b1b8fc
+    layerID: 397
+    mosaicPosition: {x: 792, y: 1451}
+  characterData:
+    bones: []
+    parts: []
+    dimension: {x: 0, y: 0}
+    characterGroups: []
+  generateGOHierarchy: 0
+  textureAssetName: Asia Texture
+  prefabAssetName: Asia Prefab
+  spriteLibAssetName: Asia Sprite Lib
+  secondarySpriteTextures: []

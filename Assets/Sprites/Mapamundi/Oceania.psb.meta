@@ -1,0 +1,625 @@
+fileFormatVersion: 2
+guid: 4186a35de67175e4c83ea6cbaa21df19
+ScriptedImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 2
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+  script: {fileID: 11500000, guid: b2a9591990af98743ba3ff7cf1000886, type: 3}
+  textureImporterSettings:
+    alphaSource: 1
+    mipMapMode: 0
+    enableMipMap: 1
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+    convertToNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    isReadable: 0
+    streamingMipmaps: 1
+    streamingMipmapsPriority: 0
+    nPOTScale: 1
+    sRGBTexture: 1
+    spriteMode: 2
+    spriteExtrude: 1
+    spriteMeshType: 1
+    alignment: 0
+    spritePivot: {x: 0.5, y: 0.5}
+    spritePixelsToUnits: 100
+    spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+    spriteGenerateFallbackPhysicsShape: 0
+    generateCubemap: 6
+    cubemapConvolution: 0
+    seamlessCubemap: 0
+    alphaIsTransparency: 1
+    spriteTessellationDetail: -1
+    textureType: 8
+    textureShape: 1
+    singleChannelComponent: 0
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 0
+    wrapV: 0
+    wrapW: 0
+    normalMap: 0
+    textureFormat: 0
+    maxTextureSize: 0
+    lightmap: 0
+    compressionQuality: 0
+    linearTexture: 0
+    grayScaleToAlpha: 0
+    rGBM: 0
+    cubemapConvolutionSteps: 0
+    cubemapConvolutionExponent: 0
+    maxTextureSizeSet: 0
+    compressionQualitySet: 0
+    textureFormatSet: 0
+    applyGammaDecoding: 0
+  spriteImportData:
+  - name: 
+    originalName: 
+    pivot: {x: 0, y: 0}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 0
+      height: 0
+    spriteID: 
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 0, y: 0}
+  mosaicSpriteImportData: []
+  rigSpriteImportData:
+  - name: Kiribati
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 886
+      y: 4
+      width: 915
+      height: 474
+    spriteID: fc031e73b94bd07449aac64ab5676bc0
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: -6235, y: -1182}
+  - name: Pitcairn
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 495
+      y: 1435
+      width: 185
+      height: 106
+    spriteID: 3b7dd320d44b34146aa8fc521a6e909d
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: -7876, y: 568}
+  - name: Polinesia Francesa
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 1114
+      width: 483
+      height: 500
+    spriteID: 6a29d170c0c50864d8c6aa83788026bb
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: -7889, y: 313}
+  - name: Isla Cook
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1809
+      y: 4
+      width: 204
+      height: 401
+    spriteID: c8ca792088581f141b33a4fab903b285
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: -5888, y: -888}
+  - name: Tonga
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 886
+      y: 874
+      width: 164
+      height: 245
+    spriteID: 3f186d9d76c90bf4cb616c320535b23b
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: -6567, y: -15}
+  - name: Samoa
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1597
+      y: 656
+      width: 134
+      height: 120
+    spriteID: 18d7453ea6bed8a4a9d7adce0d449d6c
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: -5856, y: -471}
+  - name: Wallis y Futuna
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1739
+      y: 656
+      width: 117
+      height: 76
+    spriteID: 21bd97daeceebea4dbe53f86bc34a301
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: -5602, y: -474}
+  - name: Tuvalu
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 886
+      y: 486
+      width: 778
+      height: 162
+    spriteID: 978de34552e85574fb4abe743e14d316
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: -6235, y: -700}
+  - name: Nueva caledonia
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1672
+      y: 486
+      width: 313
+      height: 130
+    spriteID: 9c00500053af4a14c8be13c00c2c2777
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: -5267, y: -407}
+  - name: Fiyi
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 495
+      y: 1114
+      width: 283
+      height: 313
+    spriteID: b0d5ef85b1fd7844d9162086692ef222
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: -6680, y: 221}
+  - name: Vanuatu
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1277
+      y: 656
+      width: 312
+      height: 189
+    spriteID: a70f7a8fedca5a24eb0962a90cf10383
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: -5662, y: -303}
+  - name: "Islas Salom\xF3n"
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 886
+      y: 656
+      width: 383
+      height: 210
+    spriteID: 1919a0492c8aa1e4fbf3c9c1be27f1e4
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: -5988, y: -483}
+  - name: Nueva Guinea
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 1622
+      width: 423
+      height: 321
+    spriteID: 7b718a204b4fc6d43ba6c3e22c2e40fa
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: -6581, y: 458}
+  - name: Estados federados de Micronesia
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 790
+      width: 870
+      height: 316
+    spriteID: 1ca4f49e39f113a4a8efe22741374b09
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: -6415, y: -689}
+  - name: Nauru
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 688
+      y: 1435
+      width: 124
+      height: 143
+    spriteID: 0fe7695146bb6474cba40a3652cce9bc
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: -6314, y: 92}
+  - name: Australia
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 4
+      width: 874
+      height: 778
+    spriteID: 79e56a11624bf1a4595e215d2aee6977
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: -5905, y: -403}
+  - name: Nueva Zelanda
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 435
+      y: 1622
+      width: 379
+      height: 298
+    spriteID: d0221a5c24833a8428ca7f142cbb5aa9
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: -6360, y: 1304}
+  platformSettings: []
+  mosaicLayers: 1
+  documentPivot: {x: 0, y: 0}
+  documentAlignment: 7
+  importHiddenLayers: 0
+  importedTextureWidth: 2048
+  importedTextureHeight: 2048
+  documentSize: {x: 8606, y: 3404}
+  paperDollMode: 0
+  keepDupilcateSpriteName: 0
+  spriteCategoryList:
+    categories: []
+  textureActualWidth: 2048
+  textureActualHeight: 2048
+  spritePackingTag: 
+  resliceFromLayer: 0
+  characterMode: 1
+  mosaicPSDLayers: []
+  rigPSDLayers:
+  - name: "Ocean\xEDa"
+    spriteName: 
+    isGroup: 1
+    parentIndex: -1
+    spriteID: 00000000000000000000000000000000
+    layerID: 587
+    mosaicPosition: {x: 0, y: 0}
+  - name: Islas
+    spriteName: 
+    isGroup: 1
+    parentIndex: 0
+    spriteID: 00000000000000000000000000000000
+    layerID: 1048
+    mosaicPosition: {x: 0, y: 0}
+  - name: Kiribati
+    spriteName: Kiribati
+    isGroup: 0
+    parentIndex: 1
+    spriteID: fc031e73b94bd07449aac64ab5676bc0
+    layerID: 1096
+    mosaicPosition: {x: 886, y: 4}
+  - name: Pitcairn
+    spriteName: Pitcairn
+    isGroup: 0
+    parentIndex: 1
+    spriteID: 3b7dd320d44b34146aa8fc521a6e909d
+    layerID: 1107
+    mosaicPosition: {x: 495, y: 1435}
+  - name: Polinesia Francesa
+    spriteName: Polinesia Francesa
+    isGroup: 0
+    parentIndex: 1
+    spriteID: 6a29d170c0c50864d8c6aa83788026bb
+    layerID: 1094
+    mosaicPosition: {x: 4, y: 1114}
+  - name: Isla Cook
+    spriteName: Isla Cook
+    isGroup: 0
+    parentIndex: 1
+    spriteID: c8ca792088581f141b33a4fab903b285
+    layerID: 1086
+    mosaicPosition: {x: 1809, y: 4}
+  - name: Tonga
+    spriteName: Tonga
+    isGroup: 0
+    parentIndex: 1
+    spriteID: 3f186d9d76c90bf4cb616c320535b23b
+    layerID: 1068
+    mosaicPosition: {x: 886, y: 874}
+  - name: Samoa
+    spriteName: Samoa
+    isGroup: 0
+    parentIndex: 1
+    spriteID: 18d7453ea6bed8a4a9d7adce0d449d6c
+    layerID: 1062
+    mosaicPosition: {x: 1597, y: 656}
+  - name: Wallis y Futuna
+    spriteName: Wallis y Futuna
+    isGroup: 0
+    parentIndex: 1
+    spriteID: 21bd97daeceebea4dbe53f86bc34a301
+    layerID: 1056
+    mosaicPosition: {x: 1739, y: 656}
+  - name: Tuvalu
+    spriteName: Tuvalu
+    isGroup: 0
+    parentIndex: 1
+    spriteID: 978de34552e85574fb4abe743e14d316
+    layerID: 1050
+    mosaicPosition: {x: 886, y: 486}
+  - name: Nueva caledonia
+    spriteName: Nueva caledonia
+    isGroup: 0
+    parentIndex: 1
+    spriteID: 9c00500053af4a14c8be13c00c2c2777
+    layerID: 619
+    mosaicPosition: {x: 1672, y: 486}
+  - name: Fiyi
+    spriteName: Fiyi
+    isGroup: 0
+    parentIndex: 1
+    spriteID: b0d5ef85b1fd7844d9162086692ef222
+    layerID: 614
+    mosaicPosition: {x: 495, y: 1114}
+  - name: Vanuatu
+    spriteName: Vanuatu
+    isGroup: 0
+    parentIndex: 1
+    spriteID: a70f7a8fedca5a24eb0962a90cf10383
+    layerID: 609
+    mosaicPosition: {x: 1277, y: 656}
+  - name: "Islas Salom\xF3n"
+    spriteName: "Islas Salom\xF3n"
+    isGroup: 0
+    parentIndex: 1
+    spriteID: 1919a0492c8aa1e4fbf3c9c1be27f1e4
+    layerID: 606
+    mosaicPosition: {x: 886, y: 656}
+  - name: Nueva Guinea
+    spriteName: Nueva Guinea
+    isGroup: 0
+    parentIndex: 1
+    spriteID: 7b718a204b4fc6d43ba6c3e22c2e40fa
+    layerID: 595
+    mosaicPosition: {x: 4, y: 1622}
+  - name: Estados federados de Micronesia
+    spriteName: Estados federados de Micronesia
+    isGroup: 0
+    parentIndex: 1
+    spriteID: 1ca4f49e39f113a4a8efe22741374b09
+    layerID: 1037
+    mosaicPosition: {x: 4, y: 790}
+  - name: Nauru
+    spriteName: Nauru
+    isGroup: 0
+    parentIndex: 1
+    spriteID: 0fe7695146bb6474cba40a3652cce9bc
+    layerID: 1041
+    mosaicPosition: {x: 688, y: 1435}
+  - name: Australia
+    spriteName: Australia
+    isGroup: 0
+    parentIndex: 0
+    spriteID: 79e56a11624bf1a4595e215d2aee6977
+    layerID: 593
+    mosaicPosition: {x: 4, y: 4}
+  - name: Nueva Zelanda
+    spriteName: Nueva Zelanda
+    isGroup: 0
+    parentIndex: 0
+    spriteID: d0221a5c24833a8428ca7f142cbb5aa9
+    layerID: 601
+    mosaicPosition: {x: 435, y: 1622}
+  characterData:
+    bones: []
+    parts: []
+    dimension: {x: 0, y: 0}
+    characterGroups: []
+  generateGOHierarchy: 0
+  textureAssetName: "Ocean\xEDa Texture"
+  prefabAssetName: "Ocean\xEDa Prefab"
+  spriteLibAssetName: "Ocean\xEDa Sprite Lib"
+  secondarySpriteTextures: []

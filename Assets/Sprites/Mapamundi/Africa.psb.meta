@@ -1,0 +1,1314 @@
+fileFormatVersion: 2
+guid: 11342922b4ede9d4b8b427059df29fae
+ScriptedImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 2
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+  script: {fileID: 11500000, guid: b2a9591990af98743ba3ff7cf1000886, type: 3}
+  textureImporterSettings:
+    alphaSource: 1
+    mipMapMode: 0
+    enableMipMap: 1
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+    convertToNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    isReadable: 0
+    streamingMipmaps: 1
+    streamingMipmapsPriority: 0
+    nPOTScale: 1
+    sRGBTexture: 1
+    spriteMode: 2
+    spriteExtrude: 1
+    spriteMeshType: 1
+    alignment: 0
+    spritePivot: {x: 0.5, y: 0.5}
+    spritePixelsToUnits: 100
+    spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+    spriteGenerateFallbackPhysicsShape: 0
+    generateCubemap: 6
+    cubemapConvolution: 0
+    seamlessCubemap: 0
+    alphaIsTransparency: 1
+    spriteTessellationDetail: -1
+    textureType: 8
+    textureShape: 1
+    singleChannelComponent: 0
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 0
+    wrapV: 0
+    wrapW: 0
+    normalMap: 0
+    textureFormat: 0
+    maxTextureSize: 0
+    lightmap: 0
+    compressionQuality: 0
+    linearTexture: 0
+    grayScaleToAlpha: 0
+    rGBM: 0
+    cubemapConvolutionSteps: 0
+    cubemapConvolutionExponent: 0
+    maxTextureSizeSet: 0
+    compressionQualitySet: 0
+    textureFormatSet: 0
+    applyGammaDecoding: 0
+  spriteImportData:
+  - name: 
+    originalName: 
+    pivot: {x: 0, y: 0}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 0
+      height: 0
+    spriteID: 
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 0, y: 0}
+  mosaicSpriteImportData: []
+  rigSpriteImportData:
+  - name: Sahara occidental
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1808
+      y: 342
+      width: 188
+      height: 159
+    spriteID: ea7685869528855499354f5275038631
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: -1299, y: -1630}
+  - name: Gambia
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1961
+      y: 1229
+      width: 62
+      height: 28
+    spriteID: e5fb3ca3545dcc04196dcb94a688ce0e
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: -1144, y: -544}
+  - name: Guinea portuguesa / luego Guinea-Bissau
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1861
+      y: 1196
+      width: 64
+      height: 44
+    spriteID: 1dc21d9c23afcc046bb9e4d0c5baf082
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: -1251, y: -535}
+  - name: Sierra leona
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1787
+      y: 1142
+      width: 66
+      height: 86
+    spriteID: c560894d08bcba344814870dce66ebd6
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: -1392, y: -483}
+  - name: Liberia
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1927
+      y: 1266
+      width: 95
+      height: 100
+    spriteID: 0fe29bcd1b9139540abcee69ee0b0f16
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: -1285, y: -304}
+  - name: Costa de oro
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1961
+      y: 817
+      width: 78
+      height: 153
+    spriteID: 4b31182176e276447b7025680523b2bb
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: -1438, y: -761}
+  - name: Togo
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1961
+      y: 978
+      width: 52
+      height: 135
+    spriteID: 7a3107a8b464f254d80961da178d5dfd
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: -1484, y: -617}
+  - name: Cabo verde
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1440
+      y: 1437
+      width: 122
+      height: 105
+    spriteID: 7283bf187db51d141ac446f1b98048d4
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: -1456, y: -363}
+  - name: AFRICA OCCIDENTAL FRANCESA
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 4
+      width: 731
+      height: 556
+    spriteID: 69d399931b98faf43ab3ebfae9969800
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: -3090, y: -1560}
+  - name: Nigeria
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 577
+      y: 1266
+      width: 265
+      height: 241
+    spriteID: 7b3df6594367fc241b8a5d328abd8f02
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: -2954, y: -297}
+  - name: "Camer\xFAn"
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1258
+      y: 1266
+      width: 174
+      height: 251
+    spriteID: 70e2e934afe8a6544acdd2334ac03310
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: -2401, y: -237}
+  - name: Santo Tome y principe
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1961
+      y: 1121
+      width: 69
+      height: 100
+    spriteID: 6cee328cd3a59754fa1559a30fe854a1
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: -1598, y: -259}
+  - name: AFRICA ECUATORIAL FRANCESA
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 568
+      width: 438
+      height: 690
+    spriteID: 3b6706f48176dd7488cdf5aa6c4a1b94
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: -3638, y: -769}
+  - name: "Congo belga / luego Rep. democr\xE1tica del congo"
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1375
+      y: 4
+      width: 425
+      height: 454
+    spriteID: 142fcb5110d22c140b2419f9aed5d623
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: -2366, y: -1131}
+  - name: Angola
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1163
+      y: 885
+      width: 283
+      height: 334
+    spriteID: 98eeca092668b4944a643d7663c44f19
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: -2565, y: -139}
+  - name: Rhodesia del norte / luego Zambia
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 305
+      y: 1266
+      width: 264
+      height: 245
+    spriteID: 15cfd417c2f2cfe498c33849e6622926
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: -3646, y: 243}
+  - name: Africa del suroeste / luego Namibia
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 1266
+      width: 293
+      height: 294
+    spriteID: 5efeb4086c9f8634eba2a41fc536ba45
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: -3727, y: 508}
+  - name: Betsuanalandia / luego Botsuana
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 850
+      y: 1266
+      width: 206
+      height: 230
+    spriteID: 46e3d055b75e1ce48b118be43b7f809d
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: -3055, y: 462}
+  - name: Suazilandia
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 914
+      y: 1504
+      width: 33
+      height: 38
+    spriteID: 5acfa7ad78a599144943fc14395892c8
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: -3225, y: 704}
+  - name: Lesoto
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 850
+      y: 1504
+      width: 56
+      height: 49
+    spriteID: 1797abdc3e34d1940a8a439ad6068068
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: -3202, y: 784}
+  - name: Sudafrica
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1163
+      y: 568
+      width: 358
+      height: 309
+    spriteID: 162142748b374c94bb953891aaafc752
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: -2665, y: -53}
+  - name: Rhodesia del sur / luego Zimbawe
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1440
+      y: 1266
+      width: 177
+      height: 163
+    spriteID: 03f64bb544471244db8262b49a0b0775
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: -2592, y: 349}
+  - name: Nyasalandia / luego Malawi
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 715
+      y: 1054
+      width: 73
+      height: 176
+    spriteID: fecc78c91b0a9b544b6d07cde6343466
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: -3480, y: -5}
+  - name: "Isla Reun\xF3n"
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 955
+      y: 1504
+      width: 31
+      height: 32
+    spriteID: 39c679d67eb9cf548bd699f302b1eee2
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: -3717, y: 592}
+  - name: Isla Mauricio
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1570
+      y: 1488
+      width: 34
+      height: 37
+    spriteID: 5d330cf981b52d8459e82dfdeab6720a
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: -3144, y: 536}
+  - name: Islas Seychelles
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1861
+      y: 1142
+      width: 66
+      height: 46
+    spriteID: e579fe67e4c03644f8d5a5c3544ed8dc
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: -2825, y: -68}
+  - name: Madagascar
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1787
+      y: 817
+      width: 166
+      height: 317
+    spriteID: b0667938affeb284d82b4f84db48f119
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: -2626, y: -24}
+  - name: Mozambique
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1529
+      y: 568
+      width: 250
+      height: 397
+    spriteID: 89d0417b6aa0d5e43a3c6f947d3f4011
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: -2598, y: -240}
+  - name: Uganda
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1792
+      y: 1266
+      width: 127
+      height: 143
+    spriteID: f0f1144096a488948b2286664f8716bb
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: -2335, y: -157}
+  - name: Tanzania
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1529
+      y: 973
+      width: 244
+      height: 269
+    spriteID: e20eb9a94c066134ebafed4d80ac3f2e
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: -2595, y: -199}
+  - name: Africa del este / luego Kenya
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1064
+      y: 1266
+      width: 186
+      height: 242
+    spriteID: 303ee79faf4eb1d4b8b4a93a0c941ee8
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: -3154, y: -78}
+  - name: Somalia
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1808
+      y: 4
+      width: 232
+      height: 330
+    spriteID: 64dd60a556ad0c44c905006c02f2bcf2
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: -2564, y: -1419}
+  - name: Somalia francesa / luego Yibuti
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1570
+      y: 1437
+      width: 43
+      height: 43
+    spriteID: e88e47ce16032624385ebacfc4b0853a
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: -2817, y: -283}
+  - name: Eritrea
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1625
+      y: 1266
+      width: 159
+      height: 143
+    spriteID: 3a54a80a0a9bf4b4e863238384f38772
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: -2641, y: -489}
+  - name: "Etiop\xEDa"
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 818
+      y: 965
+      width: 337
+      height: 274
+    spriteID: a20706f42c19237439734bb4b9740de5
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: -3378, y: -577}
+  - name: Sudan
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 450
+      y: 568
+      width: 360
+      height: 478
+    spriteID: 3bcac334b42bddf4bb10287bc4db9db4
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: -3506, y: -978}
+  - name: Egipto
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1787
+      y: 568
+      width: 243
+      height: 241
+    spriteID: ab49f0564c1cb5e459f49a7ce52d4454
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: -2222, y: -1416}
+  - name: Libia
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 818
+      y: 568
+      width: 337
+      height: 389
+    spriteID: f23a36b2a5180c945882a00e468436ca
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: -2859, y: -1363}
+  - name: Argelia
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 743
+      y: 4
+      width: 624
+      height: 442
+    spriteID: d3258d639420341459159eee292fc2fd
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: -2545, y: -1906}
+  - name: Tunez
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 1568
+      width: 96
+      height: 167
+    spriteID: 536891595a532da4184157cb95fb2784
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: -3630, y: -626}
+  - name: Marruecos
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 450
+      y: 1054
+      width: 257
+      height: 191
+    spriteID: 98ee7541b77805c48b549561a46139e9
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: -2748, y: -1071}
+  platformSettings: []
+  mosaicLayers: 1
+  documentPivot: {x: 0, y: 0}
+  documentAlignment: 7
+  importHiddenLayers: 0
+  importedTextureWidth: 2048
+  importedTextureHeight: 2048
+  documentSize: {x: 8606, y: 3404}
+  paperDollMode: 0
+  keepDupilcateSpriteName: 0
+  spriteCategoryList:
+    categories: []
+  textureActualWidth: 2048
+  textureActualHeight: 2048
+  spritePackingTag: 
+  resliceFromLayer: 0
+  characterMode: 1
+  mosaicPSDLayers: []
+  rigPSDLayers:
+  - name: "\xC1frica"
+    spriteName: 
+    isGroup: 1
+    parentIndex: -1
+    spriteID: 00000000000000000000000000000000
+    layerID: 170
+    mosaicPosition: {x: 0, y: 0}
+  - name: Sahara occidental
+    spriteName: Sahara occidental
+    isGroup: 0
+    parentIndex: 0
+    spriteID: ea7685869528855499354f5275038631
+    layerID: 344
+    mosaicPosition: {x: 1808, y: 342}
+  - name: Gambia
+    spriteName: Gambia
+    isGroup: 0
+    parentIndex: 0
+    spriteID: e5fb3ca3545dcc04196dcb94a688ce0e
+    layerID: 341
+    mosaicPosition: {x: 1961, y: 1229}
+  - name: Guinea portuguesa / luego Guinea-Bissau
+    spriteName: Guinea portuguesa / luego Guinea-Bissau
+    isGroup: 0
+    parentIndex: 0
+    spriteID: 1dc21d9c23afcc046bb9e4d0c5baf082
+    layerID: 337
+    mosaicPosition: {x: 1861, y: 1196}
+  - name: Sierra leona
+    spriteName: Sierra leona
+    isGroup: 0
+    parentIndex: 0
+    spriteID: c560894d08bcba344814870dce66ebd6
+    layerID: 332
+    mosaicPosition: {x: 1787, y: 1142}
+  - name: Liberia
+    spriteName: Liberia
+    isGroup: 0
+    parentIndex: 0
+    spriteID: 0fe29bcd1b9139540abcee69ee0b0f16
+    layerID: 329
+    mosaicPosition: {x: 1927, y: 1266}
+  - name: Costa de oro
+    spriteName: Costa de oro
+    isGroup: 0
+    parentIndex: 0
+    spriteID: 4b31182176e276447b7025680523b2bb
+    layerID: 326
+    mosaicPosition: {x: 1961, y: 817}
+  - name: Togo
+    spriteName: Togo
+    isGroup: 0
+    parentIndex: 0
+    spriteID: 7a3107a8b464f254d80961da178d5dfd
+    layerID: 321
+    mosaicPosition: {x: 1961, y: 978}
+  - name: Cabo verde
+    spriteName: Cabo verde
+    isGroup: 0
+    parentIndex: 0
+    spriteID: 7283bf187db51d141ac446f1b98048d4
+    layerID: 860
+    mosaicPosition: {x: 1440, y: 1437}
+  - name: AFRICA OCCIDENTAL FRANCESA
+    spriteName: AFRICA OCCIDENTAL FRANCESA
+    isGroup: 0
+    parentIndex: 0
+    spriteID: 69d399931b98faf43ab3ebfae9969800
+    layerID: 315
+    mosaicPosition: {x: 4, y: 4}
+  - name: Nigeria
+    spriteName: Nigeria
+    isGroup: 0
+    parentIndex: 0
+    spriteID: 7b3df6594367fc241b8a5d328abd8f02
+    layerID: 311
+    mosaicPosition: {x: 577, y: 1266}
+  - name: "Camer\xFAn"
+    spriteName: "Camer\xFAn"
+    isGroup: 0
+    parentIndex: 0
+    spriteID: 70e2e934afe8a6544acdd2334ac03310
+    layerID: 308
+    mosaicPosition: {x: 1258, y: 1266}
+  - name: Santo Tome y principe
+    spriteName: Santo Tome y principe
+    isGroup: 0
+    parentIndex: 0
+    spriteID: 6cee328cd3a59754fa1559a30fe854a1
+    layerID: 865
+    mosaicPosition: {x: 1961, y: 1121}
+  - name: AFRICA ECUATORIAL FRANCESA
+    spriteName: AFRICA ECUATORIAL FRANCESA
+    isGroup: 0
+    parentIndex: 0
+    spriteID: 3b6706f48176dd7488cdf5aa6c4a1b94
+    layerID: 259
+    mosaicPosition: {x: 4, y: 568}
+  - name: "Congo belga / luego Rep. democr\xE1tica del congo"
+    spriteName: "Congo belga / luego Rep. democr\xE1tica del congo"
+    isGroup: 0
+    parentIndex: 0
+    spriteID: 142fcb5110d22c140b2419f9aed5d623
+    layerID: 256
+    mosaicPosition: {x: 1375, y: 4}
+  - name: Angola
+    spriteName: Angola
+    isGroup: 0
+    parentIndex: 0
+    spriteID: 98eeca092668b4944a643d7663c44f19
+    layerID: 254
+    mosaicPosition: {x: 1163, y: 885}
+  - name: Rhodesia del norte / luego Zambia
+    spriteName: Rhodesia del norte / luego Zambia
+    isGroup: 0
+    parentIndex: 0
+    spriteID: 15cfd417c2f2cfe498c33849e6622926
+    layerID: 250
+    mosaicPosition: {x: 305, y: 1266}
+  - name: Africa del suroeste / luego Namibia
+    spriteName: Africa del suroeste / luego Namibia
+    isGroup: 0
+    parentIndex: 0
+    spriteID: 5efeb4086c9f8634eba2a41fc536ba45
+    layerID: 247
+    mosaicPosition: {x: 4, y: 1266}
+  - name: Betsuanalandia / luego Botsuana
+    spriteName: Betsuanalandia / luego Botsuana
+    isGroup: 0
+    parentIndex: 0
+    spriteID: 46e3d055b75e1ce48b118be43b7f809d
+    layerID: 243
+    mosaicPosition: {x: 850, y: 1266}
+  - name: Suazilandia
+    spriteName: Suazilandia
+    isGroup: 0
+    parentIndex: 0
+    spriteID: 5acfa7ad78a599144943fc14395892c8
+    layerID: 238
+    mosaicPosition: {x: 914, y: 1504}
+  - name: Lesoto
+    spriteName: Lesoto
+    isGroup: 0
+    parentIndex: 0
+    spriteID: 1797abdc3e34d1940a8a439ad6068068
+    layerID: 233
+    mosaicPosition: {x: 850, y: 1504}
+  - name: Sudafrica
+    spriteName: Sudafrica
+    isGroup: 0
+    parentIndex: 0
+    spriteID: 162142748b374c94bb953891aaafc752
+    layerID: 227
+    mosaicPosition: {x: 1163, y: 568}
+  - name: Rhodesia del sur / luego Zimbawe
+    spriteName: Rhodesia del sur / luego Zimbawe
+    isGroup: 0
+    parentIndex: 0
+    spriteID: 03f64bb544471244db8262b49a0b0775
+    layerID: 224
+    mosaicPosition: {x: 1440, y: 1266}
+  - name: Nyasalandia / luego Malawi
+    spriteName: Nyasalandia / luego Malawi
+    isGroup: 0
+    parentIndex: 0
+    spriteID: fecc78c91b0a9b544b6d07cde6343466
+    layerID: 385
+    mosaicPosition: {x: 715, y: 1054}
+  - name: "Isla Reun\xF3n"
+    spriteName: "Isla Reun\xF3n"
+    isGroup: 0
+    parentIndex: 0
+    spriteID: 39c679d67eb9cf548bd699f302b1eee2
+    layerID: 941
+    mosaicPosition: {x: 955, y: 1504}
+  - name: Isla Mauricio
+    spriteName: Isla Mauricio
+    isGroup: 0
+    parentIndex: 0
+    spriteID: 5d330cf981b52d8459e82dfdeab6720a
+    layerID: 632
+    mosaicPosition: {x: 1570, y: 1488}
+  - name: Islas Seychelles
+    spriteName: Islas Seychelles
+    isGroup: 0
+    parentIndex: 0
+    spriteID: e579fe67e4c03644f8d5a5c3544ed8dc
+    layerID: 629
+    mosaicPosition: {x: 1861, y: 1142}
+  - name: Madagascar
+    spriteName: Madagascar
+    isGroup: 0
+    parentIndex: 0
+    spriteID: b0667938affeb284d82b4f84db48f119
+    layerID: 624
+    mosaicPosition: {x: 1787, y: 817}
+  - name: Mozambique
+    spriteName: Mozambique
+    isGroup: 0
+    parentIndex: 0
+    spriteID: 89d0417b6aa0d5e43a3c6f947d3f4011
+    layerID: 221
+    mosaicPosition: {x: 1529, y: 568}
+  - name: Uganda
+    spriteName: Uganda
+    isGroup: 0
+    parentIndex: 0
+    spriteID: f0f1144096a488948b2286664f8716bb
+    layerID: 377
+    mosaicPosition: {x: 1792, y: 1266}
+  - name: Tanzania
+    spriteName: Tanzania
+    isGroup: 0
+    parentIndex: 0
+    spriteID: e20eb9a94c066134ebafed4d80ac3f2e
+    layerID: 215
+    mosaicPosition: {x: 1529, y: 973}
+  - name: Africa del este / luego Kenya
+    spriteName: Africa del este / luego Kenya
+    isGroup: 0
+    parentIndex: 0
+    spriteID: 303ee79faf4eb1d4b8b4a93a0c941ee8
+    layerID: 212
+    mosaicPosition: {x: 1064, y: 1266}
+  - name: Somalia
+    spriteName: Somalia
+    isGroup: 0
+    parentIndex: 0
+    spriteID: 64dd60a556ad0c44c905006c02f2bcf2
+    layerID: 207
+    mosaicPosition: {x: 1808, y: 4}
+  - name: Somalia francesa / luego Yibuti
+    spriteName: Somalia francesa / luego Yibuti
+    isGroup: 0
+    parentIndex: 0
+    spriteID: e88e47ce16032624385ebacfc4b0853a
+    layerID: 204
+    mosaicPosition: {x: 1570, y: 1437}
+  - name: Eritrea
+    spriteName: Eritrea
+    isGroup: 0
+    parentIndex: 0
+    spriteID: 3a54a80a0a9bf4b4e863238384f38772
+    layerID: 200
+    mosaicPosition: {x: 1625, y: 1266}
+  - name: "Etiop\xEDa"
+    spriteName: "Etiop\xEDa"
+    isGroup: 0
+    parentIndex: 0
+    spriteID: a20706f42c19237439734bb4b9740de5
+    layerID: 197
+    mosaicPosition: {x: 818, y: 965}
+  - name: Sudan
+    spriteName: Sudan
+    isGroup: 0
+    parentIndex: 0
+    spriteID: 3bcac334b42bddf4bb10287bc4db9db4
+    layerID: 194
+    mosaicPosition: {x: 450, y: 568}
+  - name: Egipto
+    spriteName: Egipto
+    isGroup: 0
+    parentIndex: 0
+    spriteID: ab49f0564c1cb5e459f49a7ce52d4454
+    layerID: 185
+    mosaicPosition: {x: 1787, y: 568}
+  - name: Libia
+    spriteName: Libia
+    isGroup: 0
+    parentIndex: 0
+    spriteID: f23a36b2a5180c945882a00e468436ca
+    layerID: 181
+    mosaicPosition: {x: 818, y: 568}
+  - name: Argelia
+    spriteName: Argelia
+    isGroup: 0
+    parentIndex: 0
+    spriteID: d3258d639420341459159eee292fc2fd
+    layerID: 175
+    mosaicPosition: {x: 743, y: 4}
+  - name: Tunez
+    spriteName: Tunez
+    isGroup: 0
+    parentIndex: 0
+    spriteID: 536891595a532da4184157cb95fb2784
+    layerID: 178
+    mosaicPosition: {x: 4, y: 1568}
+  - name: Marruecos
+    spriteName: Marruecos
+    isGroup: 0
+    parentIndex: 0
+    spriteID: 98ee7541b77805c48b549561a46139e9
+    layerID: 173
+    mosaicPosition: {x: 450, y: 1054}
+  characterData:
+    bones: []
+    parts: []
+    dimension: {x: 0, y: 0}
+    characterGroups: []
+  generateGOHierarchy: 0
+  textureAssetName: Africa Texture
+  prefabAssetName: Africa Prefab
+  spriteLibAssetName: Africa Sprite Lib
+  secondarySpriteTextures: []

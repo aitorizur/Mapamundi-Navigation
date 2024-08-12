@@ -1,0 +1,1430 @@
+fileFormatVersion: 2
+guid: 78af61d91a431d4408cdb2db3e12ca2a
+ScriptedImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 2
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+  script: {fileID: 11500000, guid: b2a9591990af98743ba3ff7cf1000886, type: 3}
+  textureImporterSettings:
+    alphaSource: 1
+    mipMapMode: 0
+    enableMipMap: 1
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+    convertToNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    isReadable: 0
+    streamingMipmaps: 1
+    streamingMipmapsPriority: 0
+    nPOTScale: 1
+    sRGBTexture: 1
+    spriteMode: 2
+    spriteExtrude: 1
+    spriteMeshType: 1
+    alignment: 0
+    spritePivot: {x: 0.5, y: 0.5}
+    spritePixelsToUnits: 100
+    spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+    spriteGenerateFallbackPhysicsShape: 0
+    generateCubemap: 6
+    cubemapConvolution: 0
+    seamlessCubemap: 0
+    alphaIsTransparency: 1
+    spriteTessellationDetail: -1
+    textureType: 8
+    textureShape: 1
+    singleChannelComponent: 0
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 0
+    wrapV: 0
+    wrapW: 0
+    normalMap: 0
+    textureFormat: 0
+    maxTextureSize: 0
+    lightmap: 0
+    compressionQuality: 0
+    linearTexture: 0
+    grayScaleToAlpha: 0
+    rGBM: 0
+    cubemapConvolutionSteps: 0
+    cubemapConvolutionExponent: 0
+    maxTextureSizeSet: 0
+    compressionQualitySet: 0
+    textureFormatSet: 0
+    applyGammaDecoding: 0
+  spriteImportData:
+  - name: 
+    originalName: 
+    pivot: {x: 0, y: 0}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 0
+      height: 0
+    spriteID: 
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 0, y: 0}
+  mosaicSpriteImportData: []
+  rigSpriteImportData:
+  - name: Islandia
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1620
+      y: 4
+      width: 147
+      height: 78
+    spriteID: 311ba382009852142b968aea94e5f7da
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: -1515, y: -2956}
+  - name: Noruega
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 406
+      width: 430
+      height: 442
+    spriteID: 64ad72f9fb3db594dab3436e0b841961
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: -3604, y: -2439}
+  - name: Suecia
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 442
+      y: 406
+      width: 214
+      height: 296
+    spriteID: b2edc8466a870184fb27de5b698a703f
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: -3269, y: -2382}
+  - name: Finlandia
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1655
+      y: 137
+      width: 166
+      height: 222
+    spriteID: e50783148f6f2a34a972591f66917e08
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: -2234, y: -2747}
+  - name: Estonia
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 693
+      y: 344
+      width: 104
+      height: 41
+    spriteID: 1397d9f13a62ee34d864db432e344efe
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: -3218, y: -2494}
+  - name: Letonia
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1829
+      y: 338
+      width: 119
+      height: 48
+    spriteID: 4b1aecd8797fe9c4bb35a79bd9e17f1b
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: -2066, y: -2468}
+  - name: Lituania
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1189
+      y: 558
+      width: 118
+      height: 65
+    spriteID: 89e5f266a38cd0b4c864ba6dd8f1f9f2
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: -2707, y: -2198}
+  - name: Moldavia
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1448
+      y: 631
+      width: 58
+      height: 76
+    spriteID: 7825d1474ae0cac48ad19162dbf97fda
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: -2574, y: -1918}
+  - name: Ucrania
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 588
+      y: 137
+      width: 334
+      height: 199
+    spriteID: f462463e48628d84ea5d60d3a9bb30e0
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: -3340, y: -2387}
+  - name: Bielorrusia
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 664
+      y: 723
+      width: 147
+      height: 120
+    spriteID: 6c54e0535c5d00745aa0cee618ad250d
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: -3263, y: -1957}
+  - name: ???????
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 664
+      y: 558
+      width: 161
+      height: 157
+    spriteID: c76683f3c778f284ca64f608e582c451
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: -3343, y: -2320}
+  - name: Irlanda
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1286
+      y: 631
+      width: 84
+      height: 88
+    spriteID: adaf5e7c81655d448ba151add0d74e71
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: -2026, y: -2064}
+  - name: Reino Unido
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1470
+      y: 137
+      width: 177
+      height: 218
+    spriteID: 44a328c19e7f24c41b517c78f446621a
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: -1889, y: -2525}
+  - name: "Ruman\xEDa"
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1209
+      y: 4
+      width: 189
+      height: 105
+    spriteID: 5c9ae05e2ede06840be1675792fd5368
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: -2681, y: -2512}
+  - name: Bulgaria
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1912
+      y: 4
+      width: 126
+      height: 77
+    spriteID: 07d6980e1f4f96242a6162d52fafb577
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: -2025, y: -2455}
+  - name: Chipre
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1775
+      y: 90
+      width: 44
+      height: 35
+    spriteID: 7017ca5cd5d9bef4b85beedb5f956433
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: -2389, y: -2205}
+  - name: Grecia
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 833
+      y: 558
+      width: 144
+      height: 170
+    spriteID: d7c98a5dc72dad94bb47ba849d44dd52
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: -3061, y: -1741}
+  - name: Albania
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1583
+      y: 631
+      width: 47
+      height: 75
+    spriteID: 39ca6b8046943fb4e9c29766277b40a1
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: -2295, y: -1785}
+  - name: Hungria
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1775
+      y: 4
+      width: 129
+      height: 78
+    spriteID: 4cb39cf3d3ac98a4a8fa15d0a3e6d2d6
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: -2035, y: -2553}
+  - name: Trieste
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1514
+      y: 700
+      width: 16
+      height: 16
+    spriteID: 947681432990abb4b9a835cc6e0b55cb
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: -2245, y: -1856}
+  - name: Kosovo
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1638
+      y: 631
+      width: 55
+      height: 44
+    spriteID: 3dd6ced24ea44f64ab81c0cecc989ae5
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: -2253, y: -1833}
+  - name: Macedonia
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1912
+      y: 89
+      width: 41
+      height: 29
+    spriteID: 1c09a04633f1a5746a68fe65233f9f87
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: -2001, y: -2363}
+  - name: Serbia
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1189
+      y: 631
+      width: 89
+      height: 84
+    spriteID: 8a9f830e52c73664a8053360f705bdd9
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: -2672, y: -1855}
+  - name: Montenegro
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1827
+      y: 90
+      width: 34
+      height: 36
+    spriteID: e729c7ae09051e247ac144eeee102d78
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: -2033, y: -2381}
+  - name: Bosnia erzebovina
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1104
+      y: 668
+      width: 72
+      height: 58
+    spriteID: de97d19e26135b6488c35ea361427205
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: -2716, y: -1824}
+  - name: Croacia
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 985
+      y: 558
+      width: 111
+      height: 86
+    spriteID: 79e1dd880d87cf442855f4815fd7f877
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: -2775, y: -1937}
+  - name: Eslovenia
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 805
+      y: 344
+      width: 66
+      height: 45
+    spriteID: 8435bdf124fc6744dbc100cdf320b0bd
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: -2947, y: -2206}
+  - name: Lienchestein
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1564
+      y: 700
+      width: 10
+      height: 17
+    spriteID: 84ec2932c3c55004fb0c4be913ce498b
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: -2131, y: -1878}
+  - name: Austria
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 664
+      y: 406
+      width: 236
+      height: 144
+    spriteID: 6d9467d0c2f6f4245bb40a60d4ac4ee1
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: -3034, y: -2169}
+  - name: checoslovaquia
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1406
+      y: 4
+      width: 206
+      height: 79
+    spriteID: 282d89d9761569143bc9fea1c4e6511e
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: -2327, y: -2606}
+  - name: Polonia
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 442
+      y: 710
+      width: 191
+      height: 129
+    spriteID: 4a47d31e168b17948a190b0b0308c5ad
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: -3329, y: -1934}
+  - name: Dinamarca
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1378
+      y: 631
+      width: 62
+      height: 80
+    spriteID: 0b6bf8cbb55a61746bd810f30558ea08
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: -2281, y: -2140}
+  - name: Luxemburgo
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1869
+      y: 90
+      width: 18
+      height: 27
+    spriteID: f0b5dbd63314fb9479f5d6cc6a712596
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: -1730, y: -2549}
+  - name: Republica democratica alemana
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1104
+      y: 558
+      width: 77
+      height: 102
+    spriteID: 0e95a1a89358d6c41bada9713f877d9c
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: -2608, y: -2105}
+  - name: Republica federal alemana
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1829
+      y: 137
+      width: 189
+      height: 193
+    spriteID: 8b76a830cf9338942a46b2db4145782b
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: -1771, y: -2451}
+  - name: Paises Bajos
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1514
+      y: 631
+      width: 61
+      height: 61
+    spriteID: 01cbfec779ab3ca4788ce77c25d3f2bd
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: -2064, y: -2051}
+  - name: Belgica
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1956
+      y: 338
+      width: 65
+      height: 53
+    spriteID: 0c5301baa711896478b7037408867709
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: -1602, y: -2308}
+  - name: Suiza
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 588
+      y: 344
+      width: 97
+      height: 53
+    spriteID: 59bc8640d8cb9e949b0face2326f4786
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: -3016, y: -2212}
+  - name: Malta
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 879
+      y: 344
+      width: 42
+      height: 39
+    spriteID: 6828d221ae645cf469a0398a32efa7e5
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: -2872, y: -1957}
+  - name: Italia
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1216
+      y: 137
+      width: 246
+      height: 246
+    spriteID: 01b08d42a5f6b5f41ab092903b4824d3
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: -2406, y: -2209}
+  - name: Portugal
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 588
+      y: 4
+      width: 613
+      height: 125
+    spriteID: 16849a1a2a72ea3439d14b9f4b7c3fbb
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: -2169, y: -2356}
+  - name: Andorra
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1538
+      y: 700
+      width: 18
+      height: 11
+    spriteID: ed7f7f8e3021bd1488cd37e77feecabb
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: -1975, y: -1777}
+  - name: Francia
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 930
+      y: 137
+      width: 278
+      height: 228
+    spriteID: 6012160b078f87341996d0af7e101f72
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: -2480, y: -2324}
+  - name: "Espa\xF1a"
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 4
+      width: 576
+      height: 394
+    spriteID: cfd04072ec8f12440ba86c649c9841c7
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: -3006, y: -2122}
+  - name: "Marruecos Espa\xF1ol"
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 985
+      y: 652
+      width: 103
+      height: 58
+    spriteID: 085ed2dad9362544ca4f2c903df05770
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: -2357, y: -1615}
+  platformSettings: []
+  mosaicLayers: 1
+  documentPivot: {x: 0, y: 0}
+  documentAlignment: 7
+  importHiddenLayers: 0
+  importedTextureWidth: 2048
+  importedTextureHeight: 2048
+  documentSize: {x: 8606, y: 3404}
+  paperDollMode: 0
+  keepDupilcateSpriteName: 0
+  spriteCategoryList:
+    categories: []
+  textureActualWidth: 2048
+  textureActualHeight: 2048
+  spritePackingTag: 
+  resliceFromLayer: 0
+  characterMode: 1
+  mosaicPSDLayers: []
+  rigPSDLayers:
+  - name: Europa
+    spriteName: 
+    isGroup: 1
+    parentIndex: -1
+    spriteID: 00000000000000000000000000000000
+    layerID: 5
+    mosaicPosition: {x: 0, y: 0}
+  - name: Islandia
+    spriteName: Islandia
+    isGroup: 0
+    parentIndex: 0
+    spriteID: 311ba382009852142b968aea94e5f7da
+    layerID: 163
+    mosaicPosition: {x: 1620, y: 4}
+  - name: Noruega
+    spriteName: Noruega
+    isGroup: 0
+    parentIndex: 0
+    spriteID: 64ad72f9fb3db594dab3436e0b841961
+    layerID: 158
+    mosaicPosition: {x: 4, y: 406}
+  - name: Suecia
+    spriteName: Suecia
+    isGroup: 0
+    parentIndex: 0
+    spriteID: b2edc8466a870184fb27de5b698a703f
+    layerID: 153
+    mosaicPosition: {x: 442, y: 406}
+  - name: Finlandia
+    spriteName: Finlandia
+    isGroup: 0
+    parentIndex: 0
+    spriteID: e50783148f6f2a34a972591f66917e08
+    layerID: 146
+    mosaicPosition: {x: 1655, y: 137}
+  - name: Estonia
+    spriteName: Estonia
+    isGroup: 0
+    parentIndex: 0
+    spriteID: 1397d9f13a62ee34d864db432e344efe
+    layerID: 1195
+    mosaicPosition: {x: 693, y: 344}
+  - name: Letonia
+    spriteName: Letonia
+    isGroup: 0
+    parentIndex: 0
+    spriteID: 4b1aecd8797fe9c4bb35a79bd9e17f1b
+    layerID: 1199
+    mosaicPosition: {x: 1829, y: 338}
+  - name: Lituania
+    spriteName: Lituania
+    isGroup: 0
+    parentIndex: 0
+    spriteID: 89e5f266a38cd0b4c864ba6dd8f1f9f2
+    layerID: 1202
+    mosaicPosition: {x: 1189, y: 558}
+  - name: Moldavia
+    spriteName: Moldavia
+    isGroup: 0
+    parentIndex: 0
+    spriteID: 7825d1474ae0cac48ad19162dbf97fda
+    layerID: 1216
+    mosaicPosition: {x: 1448, y: 631}
+  - name: Ucrania
+    spriteName: Ucrania
+    isGroup: 0
+    parentIndex: 0
+    spriteID: f462463e48628d84ea5d60d3a9bb30e0
+    layerID: 1206
+    mosaicPosition: {x: 588, y: 137}
+  - name: Bielorrusia
+    spriteName: Bielorrusia
+    isGroup: 0
+    parentIndex: 0
+    spriteID: 6c54e0535c5d00745aa0cee618ad250d
+    layerID: 1204
+    mosaicPosition: {x: 664, y: 723}
+  - name: ???????
+    spriteName: ???????
+    isGroup: 0
+    parentIndex: 0
+    spriteID: c76683f3c778f284ca64f608e582c451
+    layerID: 1232
+    mosaicPosition: {x: 664, y: 558}
+  - name: Irlanda
+    spriteName: Irlanda
+    isGroup: 0
+    parentIndex: 0
+    spriteID: adaf5e7c81655d448ba151add0d74e71
+    layerID: 1173
+    mosaicPosition: {x: 1286, y: 631}
+  - name: Reino Unido
+    spriteName: Reino Unido
+    isGroup: 0
+    parentIndex: 0
+    spriteID: 44a328c19e7f24c41b517c78f446621a
+    layerID: 133
+    mosaicPosition: {x: 1470, y: 137}
+  - name: "Ruman\xEDa"
+    spriteName: "Ruman\xEDa"
+    isGroup: 0
+    parentIndex: 0
+    spriteID: 5c9ae05e2ede06840be1675792fd5368
+    layerID: 128
+    mosaicPosition: {x: 1209, y: 4}
+  - name: Bulgaria
+    spriteName: Bulgaria
+    isGroup: 0
+    parentIndex: 0
+    spriteID: 07d6980e1f4f96242a6162d52fafb577
+    layerID: 123
+    mosaicPosition: {x: 1912, y: 4}
+  - name: Chipre
+    spriteName: Chipre
+    isGroup: 0
+    parentIndex: 0
+    spriteID: 7017ca5cd5d9bef4b85beedb5f956433
+    layerID: 644
+    mosaicPosition: {x: 1775, y: 90}
+  - name: Grecia
+    spriteName: Grecia
+    isGroup: 0
+    parentIndex: 0
+    spriteID: d7c98a5dc72dad94bb47ba849d44dd52
+    layerID: 118
+    mosaicPosition: {x: 833, y: 558}
+  - name: Albania
+    spriteName: Albania
+    isGroup: 0
+    parentIndex: 0
+    spriteID: 39ca6b8046943fb4e9c29766277b40a1
+    layerID: 109
+    mosaicPosition: {x: 1583, y: 631}
+  - name: Hungria
+    spriteName: Hungria
+    isGroup: 0
+    parentIndex: 0
+    spriteID: 4cb39cf3d3ac98a4a8fa15d0a3e6d2d6
+    layerID: 104
+    mosaicPosition: {x: 1775, y: 4}
+  - name: Trieste
+    spriteName: Trieste
+    isGroup: 0
+    parentIndex: 0
+    spriteID: 947681432990abb4b9a835cc6e0b55cb
+    layerID: 935
+    mosaicPosition: {x: 1514, y: 700}
+  - name: Kosovo
+    spriteName: Kosovo
+    isGroup: 0
+    parentIndex: 0
+    spriteID: 3dd6ced24ea44f64ab81c0cecc989ae5
+    layerID: 1273
+    mosaicPosition: {x: 1638, y: 631}
+  - name: Macedonia
+    spriteName: Macedonia
+    isGroup: 0
+    parentIndex: 0
+    spriteID: 1c09a04633f1a5746a68fe65233f9f87
+    layerID: 1269
+    mosaicPosition: {x: 1912, y: 89}
+  - name: Serbia
+    spriteName: Serbia
+    isGroup: 0
+    parentIndex: 0
+    spriteID: 8a9f830e52c73664a8053360f705bdd9
+    layerID: 1265
+    mosaicPosition: {x: 1189, y: 631}
+  - name: Montenegro
+    spriteName: Montenegro
+    isGroup: 0
+    parentIndex: 0
+    spriteID: e729c7ae09051e247ac144eeee102d78
+    layerID: 1261
+    mosaicPosition: {x: 1827, y: 90}
+  - name: Bosnia erzebovina
+    spriteName: Bosnia erzebovina
+    isGroup: 0
+    parentIndex: 0
+    spriteID: de97d19e26135b6488c35ea361427205
+    layerID: 1257
+    mosaicPosition: {x: 1104, y: 668}
+  - name: Croacia
+    spriteName: Croacia
+    isGroup: 0
+    parentIndex: 0
+    spriteID: 79e1dd880d87cf442855f4815fd7f877
+    layerID: 1253
+    mosaicPosition: {x: 985, y: 558}
+  - name: Eslovenia
+    spriteName: Eslovenia
+    isGroup: 0
+    parentIndex: 0
+    spriteID: 8435bdf124fc6744dbc100cdf320b0bd
+    layerID: 1249
+    mosaicPosition: {x: 805, y: 344}
+  - name: Lienchestein
+    spriteName: Lienchestein
+    isGroup: 0
+    parentIndex: 0
+    spriteID: 84ec2932c3c55004fb0c4be913ce498b
+    layerID: 887
+    mosaicPosition: {x: 1564, y: 700}
+  - name: Austria
+    spriteName: Austria
+    isGroup: 0
+    parentIndex: 0
+    spriteID: 6d9467d0c2f6f4245bb40a60d4ac4ee1
+    layerID: 91
+    mosaicPosition: {x: 664, y: 406}
+  - name: checoslovaquia
+    spriteName: checoslovaquia
+    isGroup: 0
+    parentIndex: 0
+    spriteID: 282d89d9761569143bc9fea1c4e6511e
+    layerID: 86
+    mosaicPosition: {x: 1406, y: 4}
+  - name: Polonia
+    spriteName: Polonia
+    isGroup: 0
+    parentIndex: 0
+    spriteID: 4a47d31e168b17948a190b0b0308c5ad
+    layerID: 81
+    mosaicPosition: {x: 442, y: 710}
+  - name: Dinamarca
+    spriteName: Dinamarca
+    isGroup: 0
+    parentIndex: 0
+    spriteID: 0b6bf8cbb55a61746bd810f30558ea08
+    layerID: 74
+    mosaicPosition: {x: 1378, y: 631}
+  - name: Luxemburgo
+    spriteName: Luxemburgo
+    isGroup: 0
+    parentIndex: 0
+    spriteID: f0b5dbd63314fb9479f5d6cc6a712596
+    layerID: 877
+    mosaicPosition: {x: 1869, y: 90}
+  - name: Republica democratica alemana
+    spriteName: Republica democratica alemana
+    isGroup: 0
+    parentIndex: 0
+    spriteID: 0e95a1a89358d6c41bada9713f877d9c
+    layerID: 1178
+    mosaicPosition: {x: 1104, y: 558}
+  - name: Republica federal alemana
+    spriteName: Republica federal alemana
+    isGroup: 0
+    parentIndex: 0
+    spriteID: 8b76a830cf9338942a46b2db4145782b
+    layerID: 69
+    mosaicPosition: {x: 1829, y: 137}
+  - name: Paises Bajos
+    spriteName: Paises Bajos
+    isGroup: 0
+    parentIndex: 0
+    spriteID: 01cbfec779ab3ca4788ce77c25d3f2bd
+    layerID: 63
+    mosaicPosition: {x: 1514, y: 631}
+  - name: Belgica
+    spriteName: Belgica
+    isGroup: 0
+    parentIndex: 0
+    spriteID: 0c5301baa711896478b7037408867709
+    layerID: 56
+    mosaicPosition: {x: 1956, y: 338}
+  - name: Suiza
+    spriteName: Suiza
+    isGroup: 0
+    parentIndex: 0
+    spriteID: 59bc8640d8cb9e949b0face2326f4786
+    layerID: 49
+    mosaicPosition: {x: 588, y: 344}
+  - name: Malta
+    spriteName: Malta
+    isGroup: 0
+    parentIndex: 0
+    spriteID: 6828d221ae645cf469a0398a32efa7e5
+    layerID: 651
+    mosaicPosition: {x: 879, y: 344}
+  - name: Italia
+    spriteName: Italia
+    isGroup: 0
+    parentIndex: 0
+    spriteID: 01b08d42a5f6b5f41ab092903b4824d3
+    layerID: 41
+    mosaicPosition: {x: 1216, y: 137}
+  - name: Portugal
+    spriteName: Portugal
+    isGroup: 0
+    parentIndex: 0
+    spriteID: 16849a1a2a72ea3439d14b9f4b7c3fbb
+    layerID: 12
+    mosaicPosition: {x: 588, y: 4}
+  - name: Andorra
+    spriteName: Andorra
+    isGroup: 0
+    parentIndex: 0
+    spriteID: ed7f7f8e3021bd1488cd37e77feecabb
+    layerID: 882
+    mosaicPosition: {x: 1538, y: 700}
+  - name: Francia
+    spriteName: Francia
+    isGroup: 0
+    parentIndex: 0
+    spriteID: 6012160b078f87341996d0af7e101f72
+    layerID: 20
+    mosaicPosition: {x: 930, y: 137}
+  - name: "Espa\xF1a"
+    spriteName: "Espa\xF1a"
+    isGroup: 0
+    parentIndex: 0
+    spriteID: cfd04072ec8f12440ba86c649c9841c7
+    layerID: 8
+    mosaicPosition: {x: 4, y: 4}
+  - name: "Marruecos Espa\xF1ol"
+    spriteName: "Marruecos Espa\xF1ol"
+    isGroup: 0
+    parentIndex: 0
+    spriteID: 085ed2dad9362544ca4f2c903df05770
+    layerID: 1279
+    mosaicPosition: {x: 985, y: 652}
+  characterData:
+    bones: []
+    parts: []
+    dimension: {x: 0, y: 0}
+    characterGroups: []
+  generateGOHierarchy: 0
+  textureAssetName: Europa Texture
+  prefabAssetName: Europa Prefab
+  spriteLibAssetName: Europa Sprite Lib
+  secondarySpriteTextures: []
